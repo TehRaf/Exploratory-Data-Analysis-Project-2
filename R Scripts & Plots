@@ -15,3 +15,7 @@ barplot(
         main = "Total US PM2.5 emission from all Sources"
         )
 dev.off()
+
+![Q1 Plot](https://user-images.githubusercontent.com/53896223/69487848-0bea5f00-0eb5-11ea-9cb6-cd537780bb73.png)
+
+
